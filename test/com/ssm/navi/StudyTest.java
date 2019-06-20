@@ -14,7 +14,7 @@ public class StudyTest {
 	}
 
 	@Test
-	public void test() {
+	public void testAdd() {
 		Assert.assertEquals(2, add(1,2));
 	}
 
